@@ -1,0 +1,5 @@
+{
+  "name": "Reg2Progress",
+  "description": "Aplikasi untuk diskusi rapat guna mengelola dan melacak kemajuan isu di berbagai cabang klinik di Indonesia. Memungkinkan pembaruan waktu nyata dan visualisasi yang jelas tentang status dan prioritas isu.",
+  "requestFramePermissions": []
+}
